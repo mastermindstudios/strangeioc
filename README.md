@@ -1,6 +1,6 @@
 ## Strange: the IoC framework for `Unity3D` and `C#`
 
-Current version: v0.7.0
+Current version: v1.0f3. Just the code.
 
 Website: http://strangeioc.github.io/strangeioc/
 
